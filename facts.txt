@@ -1,0 +1,8 @@
+The following is all regarding the time period from 1973 to 2016. Confidence intervals are generally 80%.
+
+Women introduced an average of 136.9 bills each, men 128.3.
+
+There were 1978 congressmen, 185 congresswomen, so men submitted 92% of bills.
+
+Men were 1.73 times as likely to get their bills passed. For 2010-2016, men were 1.28 (1.09 .. 1.52) times as likely, less than the historical average.
+
